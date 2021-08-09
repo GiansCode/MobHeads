@@ -1,0 +1,6 @@
+name: MobHeads
+author: xQuickGlare
+version: ${project.version}
+main: io.alerium.mobheads.MobHeadsPlugin
+api-version: 1.13
+depend: [Vault]
